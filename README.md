@@ -20,4 +20,4 @@ The app lets users choose password length and character types (uppercase, lowerc
 
 ## Screenshot
 
-![Password Generator Screenshot](./starter-code/projectoutput.png)
+![Password Generator Screenshot](./projectoutput.png)
